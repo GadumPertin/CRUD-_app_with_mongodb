@@ -1,3 +1,4 @@
+// require('dotenv').config({ path: './config/dev.env' });
 const express = require('express');
 const UserData = require('./mongoDB/mongo');
 
